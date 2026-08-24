@@ -1,4 +1,4 @@
-const API_URL = "https://nab-businessguard-backend.vercel.app/";
+const API_URL = "https://nab-businessguard-backend.vercel.app";
 
 export async function getDashboardStats() {
   const response = await fetch(`${API_URL}/dashboard/stats`);
