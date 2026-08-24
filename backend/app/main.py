@@ -22,10 +22,7 @@ app.add_middleware(
         "http://127.0.0.1:3000",
         "https://nab-businessguard.vercel.app",
     ],
-    allow_credentials=True,
-    allow_methods=["*"],
-    allow_headers=["*"],
-)
+    allow_origin_regex=r"https://nab-businessguard-[a-z0-9-]+-parampreetchahals-projects\.vercel\.app",
 
 
 DATA_PATH = Path("data/transactions.csv")
