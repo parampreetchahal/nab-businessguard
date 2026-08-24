@@ -1,4 +1,4 @@
-const API_URL = "http://127.0.0.1:8000";
+const API_URL = "https://nab-businessguard-backend.vercel.app/";
 
 export async function getDashboardStats() {
   const response = await fetch(`${API_URL}/dashboard/stats`);
