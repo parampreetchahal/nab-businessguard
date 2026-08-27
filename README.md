@@ -732,7 +732,8 @@ These improvements are intentionally outside the scope of the current prototype.
 # Screenshots
 
 ## Dashboard
-<img width="1901" height="878" alt="image" src="https://github.com/user-attachments/assets/9ae29d4a-7a7e-4ff4-9dee-afc4ce934ec7" />
+<img width="1897" height="870" alt="image" src="https://github.com/user-attachments/assets/46bc6d5b-e517-4f68-8ed3-94f7bb000f21" />
+
 
 
 ## Transaction Monitoring
