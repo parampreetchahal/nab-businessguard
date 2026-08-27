@@ -731,12 +731,6 @@ These improvements are intentionally outside the scope of the current prototype.
 
 # Screenshots
 
-1. Dashboard
-2. Transactions
-3. Business Risk Profile
-4. Transaction Investigation
-
-```text
 ## Dashboard
 <img width="1901" height="878" alt="image" src="https://github.com/user-attachments/assets/9ae29d4a-7a7e-4ff4-9dee-afc4ce934ec7" />
 
@@ -753,7 +747,6 @@ These improvements are intentionally outside the scope of the current prototype.
 <img width="1896" height="877" alt="image" src="https://github.com/user-attachments/assets/62accc9e-1a0d-4c7b-b37c-b572adb4c918" />
 <img width="1901" height="871" alt="image" src="https://github.com/user-attachments/assets/8472ef02-4edc-4b86-9ad4-61ed31387c1e" />
 
-```
 
 ---
 
