@@ -735,9 +735,6 @@ These improvements are intentionally outside the scope of the current prototype.
 2. Transactions
 3. Business Risk Profile
 4. Transaction Investigation
-5. FastAPI API Documentation
-
-Example:
 
 ```text
 ## Dashboard
